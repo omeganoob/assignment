@@ -6,7 +6,7 @@
 #define MUL 4
 #define DIV 8
 #define MIN 16
-#define MAX 23
+#define MAX 32
 
 void calc(uint mathType, float a, float b)
 {
