@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/e/fpt_fresher/cpp/assignment/as2/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/AS2.dir/main.cpp.o -c /mnt/e/fpt_fresher/cpp/assignment/as2/main.cpp",
+  "file": "/mnt/e/fpt_fresher/cpp/assignment/as2/main.cpp",
+  "output": "CMakeFiles/AS2.dir/main.cpp.o"
+}
+]

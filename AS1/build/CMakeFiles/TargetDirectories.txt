@@ -1,0 +1,3 @@
+/mnt/e/fpt_fresher/cpp/assignment/as1/build/CMakeFiles/AS1.dir
+/mnt/e/fpt_fresher/cpp/assignment/as1/build/CMakeFiles/edit_cache.dir
+/mnt/e/fpt_fresher/cpp/assignment/as1/build/CMakeFiles/rebuild_cache.dir
